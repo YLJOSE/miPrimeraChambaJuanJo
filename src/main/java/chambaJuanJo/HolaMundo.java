@@ -3,7 +3,7 @@ package chambaJuanJo;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Esbozo de método generado automáticamente
+		System.out.println("HOLA CARACOLA");
 
 	}
 
